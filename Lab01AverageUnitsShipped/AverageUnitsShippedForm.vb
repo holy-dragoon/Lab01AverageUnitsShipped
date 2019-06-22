@@ -1,6 +1,6 @@
 ﻿'@name: Lab 01 : Averaging Shipped Units'
 'description: Form to receive a the number of units shipped per day'
-' and output the average units shipped per week. The form can be reset or the applicaiton can be quit.'
+' and output the average units shipped per week. The form can be reset or the application can be quit.'
 '@author: Shaun McCrum'
 '@since: 5 May 2019'
 Option Strict On
